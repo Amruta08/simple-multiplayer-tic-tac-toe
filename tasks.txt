@@ -1,8 +1,0 @@
-1. make client & server folder
-2. Create react app inside client folder
-3. inside server create package.json & src folder with index.js in it
-4. npm install axios universal-cookie stream-chat stream-chat-react inside client folder
-5. create login & signup components inside client/src/components & load them inside app.js
-6. npm install express nodemon uuid cors bcrypt for server
-7. Create instance of serverClient in index.js
-7. get hold of data through post routee & create userId, hashed password & token for user
